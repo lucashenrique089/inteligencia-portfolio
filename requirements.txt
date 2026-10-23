@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+numpy
+curl_cffi
+beautifulsoup4
+openpyxl
