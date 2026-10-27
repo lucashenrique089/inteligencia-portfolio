@@ -1305,3 +1305,145 @@
 69;225/75R16C;Cargo Marathon 3 118R E CC72;2026-10-26 14:42;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
 70;225/75R16C;Goodyear Cargo Marathon 2 118/116R;2026-10-26 14:42;PneuStore;mesmo produto;sim;1097.31;nao;;;;;;;
 71;235/65R16C;Cargo Marathon 2 121/119R E;2026-10-26 14:42;PneuStore;mesmo produto;fora_do_site;;sim;;1199.89;1079.9;1157.17;10.0;115.71;0.1000008334097292
+1;215/75R17.5;AGS 126/124L F;2026-10-27 14:02;Achei Pneus;não vende;fora_do_site;;nao_vende;;;;;;;
+2;215/75R17.5;Regional RHS 126/124L F;2026-10-27 14:02;Achei Pneus;não vende;fora_do_site;;nao_vende;;;;;;;
+3;235/75R17.5;Regional RHS 132/130L H;2026-10-27 14:02;Achei Pneus;não vende;fora_do_site;;nao_vende;;;;;;;
+4;275/80R22.5;149/146L STM AGS;2026-10-27 14:02;Achei Pneus;não vende;fora_do_site;;nao_vende;;;;;;;
+5;275/80R22.5;Kmax S GEN-2 149/146L H DC71;2026-10-27 14:02;Achei Pneus;não vende;fora_do_site;;nao_vende;;;;;;;
+6;9.00-20;14L TT Papa-Légua G8;2026-10-27 14:02;Achei Pneus;não vende;fora_do_site;;nao_vende;;;;;;;
+7;165/70R13;Edge Touring 2 83T XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;306.81;nao;;;;;;;
+8;165/70R14;Assurance Maxlife 85T XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;463.05;nao;;;;;;;
+9;175/65R14;Goodyear Assurance Maxlife 86H XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;353.31;nao;;;;;;;
+10;175/65R14;Kelly Edge Touring 2 86H XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;306.81;nao;;;;;;;
+11;175/65R15;Edge Sport 2 84T SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;435.15;nao;;;;;;;
+12;175/70R13;Goodyear Assurance Maxlife 82T;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;353.31;nao;;;;;;;
+13;175/70R13;Kelly Edge Touring 2 82T;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;297.51;nao;;;;;;;
+14;175/70R14;Assurance Maxlife 88T XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;406.32;nao;;;;;;;
+15;175/70R14;EfficientGrip Performance 88T XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;492.21;nao;;;;;;;
+16;175/70R14;Kelly Edge Touring 2 88T XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;368.19;nao;;;;;;;
+17;185/55R16;Eagle Sport 2 83V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;618.36;nao;;;;;;;
+18;185/55R16;EfficientGrip Performance 83V;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;680.67;nao;;;;;;;
+19;185/60R15;Eagle Sport 2 88H XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;479.79;nao;;;;;;;
+20;185/60R15;EfficientGrip Performance 88H XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;529.08;nao;;;;;;;
+21;185/60R15;Kelly Edge Sport 2 88H XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;423.06;nao;;;;;;;
+22;185/65R14;Assurance Maxlife 86H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+23;185/65R14;Edge Touring 2 86H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;427.71;nao;;;;;;;
+24;185/65R15;Eagle Sport 2 88H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;483.51;nao;;;;;;;
+25;185/65R15;Eagle Touring 88H SL DS BC70;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;763.52;nao;;;;;;;
+26;185/65R15;Kelly Edge Sport 2 88H;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;433.29;nao;;;;;;;
+27;185/70R14;Assurance Maxlife 88H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+28;185/70R14;Edge Touring 2 88H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;423.99;nao;;;;;;;
+29;195/55R15;Eagle Sport 2 85H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;474.21;nao;;;;;;;
+30;195/55R15;Edge Sport 2 85H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;433.29;nao;;;;;;;
+31;195/55R15;EfficientGrip Performance 85H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;549.54;nao;;;;;;;
+32;195/55R16;Eagle Sport 2 91V XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;627.66;nao;;;;;;;
+33;195/55R16;Goodyear EfficientGrip Performance 91V XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;557.91;nao;;;;;;;
+34;195/60R15;Kelly Edge Sport 2 88V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;483.51;nao;;;;;;;
+35;195/60R16;Eagle Touring 89H FCA;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;704.85;nao;;;;;;;
+36;195/65R15;Eagle Sport 2 91V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;502.11;nao;;;;;;;
+37;195/65R15;EfficientGrip Performance 91H SL FP;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;548.61;nao;;;;;;;
+38;195/65R15;Kelly Edge Sport 2 91V;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;463.05;nao;;;;;;;
+39;205/45R18;Eagle Touring 86V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;645.33;nao;;;;;;;
+40;205/50R17;Eagle Touring 89V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;776.46;nao;;;;;;;
+41;205/55R16;Eagle Sport 2 91V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;446.31;nao;;;;;;;
+42;205/55R16;Kelly Edge Sport 2 91V;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;427.71;nao;;;;;;;
+43;205/60R15;EfficientGrip Performance 91H;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;557.91;nao;;;;;;;
+44;215/45R18;Eagle F1 Asymmetric 6 93V XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;806.22;nao;;;;;;;
+45;215/50R17;Eagle Sport 2 91V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;589.53;nao;;;;;;;
+46;215/50R17;EfficientGrip Performance 91V HO;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+47;225/45R17;Eagle Sport 2 94W XL;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+48;225/45R17;EfficientGrip Performance 94W XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;623.01;nao;;;;;;;
+49;225/45R17;Kelly Edge Sport 2 91W;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;492.81;nao;;;;;;;
+50;225/50R17;Eagle Sport 2 94V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;617.43;nao;;;;;;;
+51;205/55R17;Wrangler Territory HT 91V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;711.36;nao;;;;;;;
+52;205/60R16;Wrangler Territory HT 92H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;637.89;nao;;;;;;;
+53;205/65R16;Goodyear EfficientGrip SUV 95H;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;619.29;nao;;;;;;;
+54;215/55R17;Goodyear EfficientGrip SUV 94V;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;702.99;nao;;;;;;;
+55;215/55R18;Wrangler Territory VW 95V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;860.16;nao;;;;;;;
+56;215/60R17;EfficientGrip SUV 96H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;785.76;nao;;;;;;;
+57;215/65R16;Wrangler Fortitude HT 102H XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;708.57;nao;;;;;;;
+58;225/55R18;EfficientGrip SUV 98V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;841.56;nao;;;;;;;
+59;225/55R18;Wrangler Fortitude HT 98V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;764.37;nao;;;;;;;
+60;225/60R18;Wrangler Fortitude HT 104H XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;972.69;nao;;;;;;;
+61;235/45R19;Wrangler Territory VW 95V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+62;235/55R18;EfficientGrip SUV 104V XL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;1311.21;nao;;;;;;;
+63;235/60R16;Edge SUV 2 100H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;678.81;nao;;;;;;;
+64;235/60R16;Wrangler Fortitude HT 100H SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;771.81;nao;;;;;;;
+65;235/60R18;Wrangler Fortitude HT 103V SL;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;1053.6;nao;;;;;;;
+66;195/70R15C;Cargo Marathon 2 104/102R D;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+67;205/70R15C;Cargo Marathon 2 106/104R D;2026-10-27 14:02;Achei Pneus;mesmo produto;sim;819.24;nao;;;;;;;
+68;225/65R16C;G32 Cargo 112/110R D SL;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+69;225/75R16C;Cargo Marathon 3 118R E CC72;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+70;225/75R16C;Goodyear Cargo Marathon 2 118/116R;2026-10-27 14:02;Achei Pneus;alternativo;sim;1097.31;nao;;;;;;;
+71;235/65R16C;Cargo Marathon 2 121/119R E;2026-10-27 14:02;Achei Pneus;mesmo produto;fora_do_site;;nao;;;;;;;
+1;215/75R17.5;AGS 126/124L F;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
+2;215/75R17.5;Regional RHS 126/124L F;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
+3;235/75R17.5;Regional RHS 132/130L H;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
+4;275/80R22.5;149/146L STM AGS;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
+5;275/80R22.5;Kmax S GEN-2 149/146L H DC71;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
+6;9.00-20;14L TT Papa-Légua G8;2026-10-27 14:02;PneuStore;não vende;fora_do_site;;nao_vende;;;;;;;
+7;165/70R13;Edge Touring 2 83T XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;306.81;sim;;374.89;329.9;361.54;10.0;36.15;0.12000853583717896
+8;165/70R14;Assurance Maxlife 85T XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;463.05;sim;;455.45;409.9;439.23;10.0;43.92;0.1000109781534746
+9;175/65R14;Goodyear Assurance Maxlife 86H XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;353.31;sim;;397.62;349.9;383.46;10.0;38.34;0.12001408379860179
+10;175/65R14;Kelly Edge Touring 2 86H XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;306.81;sim;;355.45;319.9;342.79;10.0;34.27;0.10001406667604451
+11;175/65R15;Edge Sport 2 84T SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;435.15;sim;;466.56;419.9;449.95;10.0;44.99;0.10000857338820313
+12;175/70R13;Goodyear Assurance Maxlife 82T;2026-10-27 14:02;PneuStore;mesmo produto;sim;353.31;sim;;431.7;379.89;416.33;10.0;41.63;0.12001389854065325
+13;175/70R13;Kelly Edge Touring 2 82T;2026-10-27 14:02;PneuStore;mesmo produto;sim;297.51;sim;;333.23;299.9;321.36;10.0;32.13;0.10002100651201884
+14;175/70R14;Assurance Maxlife 88T XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;406.32;sim;;461.0;414.9;444.58;10.0;44.45;0.10000000000000009
+15;175/70R14;EfficientGrip Performance 88T XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;492.21;;;;;;;;
+16;175/70R14;Kelly Edge Touring 2 88T XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;368.19;;;;;;;;
+17;185/55R16;Eagle Sport 2 83V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;618.36;sim;;670.35;589.9;646.48;10.0;64.64;0.12001193406429489
+18;185/55R16;EfficientGrip Performance 83V;2026-10-27 14:02;PneuStore;mesmo produto;sim;680.67;sim;;766.56;689.9;739.27;10.0;73.92;0.10000521811730323
+19;185/60R15;Eagle Sport 2 88H XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;479.79;sim;;538.78;484.9;519.59;10.0;51.95;0.10000371209027803
+20;185/60R15;EfficientGrip Performance 88H XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;529.08;sim;;579.44;509.9;558.81;10.0;55.88;0.12001242579041849
+21;185/60R15;Kelly Edge Sport 2 88H XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;423.06;sim;;481.59;394.9;464.44;10.0;46.44;0.18000789052928845
+22;185/65R14;Assurance Maxlife 86H SL;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
+23;185/65R14;Edge Touring 2 86H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;427.71;sim;;444.33;399.89;428.51;10.0;42.85;0.10001575405666963
+24;185/65R15;Eagle Sport 2 88H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;483.51;sim;;533.23;479.9;514.24;10.0;51.42;0.10001312754346159
+25;185/65R15;Eagle Touring 88H SL DS BC70;2026-10-27 14:02;PneuStore;mesmo produto;sim;763.52;sim;;590.8;519.9;569.76;10.0;56.97;0.12000677048070407
+26;185/65R15;Kelly Edge Sport 2 88H;2026-10-27 14:02;PneuStore;mesmo produto;sim;433.29;sim;;512.08;419.9;493.84;10.0;49.38;0.1800109357912827
+27;185/70R14;Assurance Maxlife 88H SL;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;sim;;522.12;469.9;503.53;10.0;50.35;0.10001532214816522
+28;185/70R14;Edge Touring 2 88H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;423.99;sim;;466.56;419.9;449.95;10.0;44.99;0.10000857338820313
+29;195/55R15;Eagle Sport 2 85H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;474.21;sim;;527.67;474.9;508.88;10.0;50.88;0.10000568537153898
+30;195/55R15;Edge Sport 2 85H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;433.29;sim;;511.65;434.9;493.43;10.0;49.34;0.1500048861526434
+31;195/55R15;EfficientGrip Performance 85H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;549.54;sim;;599.89;539.9;578.53;10.0;57.85;0.1000016669722783
+32;195/55R16;Eagle Sport 2 91V XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;627.66;sim;;670.35;589.9;646.48;10.0;64.64;0.12001193406429489
+33;195/55R16;Goodyear EfficientGrip Performance 91V XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;557.91;nao;;;;;;;
+34;195/60R15;Kelly Edge Sport 2 88V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;483.51;sim;;556.71;489.9;536.89;10.0;53.68;0.12000862208331098
+35;195/60R16;Eagle Touring 89H FCA;2026-10-27 14:02;PneuStore;mesmo produto;sim;704.85;nao;;;;;;;
+36;195/65R15;Eagle Sport 2 91V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;502.11;sim;;533.23;479.9;514.24;10.0;51.42;0.10001312754346159
+37;195/65R15;EfficientGrip Performance 91H SL FP;2026-10-27 14:02;PneuStore;mesmo produto;sim;548.61;nao;;;;;;;
+38;195/65R15;Kelly Edge Sport 2 91V;2026-10-27 14:02;PneuStore;mesmo produto;sim;463.05;sim;;536.47;439.9;517.37;10.0;51.73;0.18001006580051082
+39;205/45R18;Eagle Touring 86V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;645.33;nao;;;;;;;
+40;205/50R17;Eagle Touring 89V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;776.46;nao;;;;;;;
+41;205/55R16;Eagle Sport 2 91V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;446.31;sim;;516.94;454.9;498.53;10.0;49.85;0.12001392811544875
+42;205/55R16;Kelly Edge Sport 2 91V;2026-10-27 14:02;PneuStore;mesmo produto;sim;427.71;sim;;444.33;399.89;428.51;10.0;42.85;0.10001575405666963
+43;205/60R15;EfficientGrip Performance 91H;2026-10-27 14:02;PneuStore;mesmo produto;sim;557.91;sim;;611.0;549.9;589.24;10.0;58.92;0.10000000000000009
+44;215/45R18;Eagle F1 Asymmetric 6 93V XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;806.22;sim;;844.33;759.89;814.27;10.0;81.42;0.10000829059727834
+45;215/50R17;Eagle Sport 2 91V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;589.53;nao;;;;;;;
+46;215/50R17;EfficientGrip Performance 91V HO;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;sim;;710.12;624.9;684.83;10.0;68.48;0.12000788599110013
+47;225/45R17;Eagle Sport 2 94W XL;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;sim;;633.23;569.9;610.68;10.0;61.06;0.10001105443519742
+48;225/45R17;EfficientGrip Performance 94W XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;623.01;sim;;705.45;634.9;680.33;10.0;68.03;0.10000708767453403
+49;225/45R17;Kelly Edge Sport 2 91W;2026-10-27 14:02;PneuStore;mesmo produto;sim;492.81;sim;;555.45;499.9;535.67;10.0;53.56;0.10000900171032512
+50;225/50R17;Eagle Sport 2 94V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;617.43;sim;;731.59;599.9;705.54;10.0;70.55;0.18000519416613137
+51;205/55R17;Wrangler Territory HT 91V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;711.36;sim;;766.56;689.9;739.27;10.0;73.92;0.10000521811730323
+52;205/60R16;Wrangler Territory HT 92H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;637.89;sim;;711.0;639.9;685.68;10.0;68.56;0.09999999999999998
+53;205/65R16;Goodyear EfficientGrip SUV 95H;2026-10-27 14:02;PneuStore;mesmo produto;sim;619.29;sim;;755.45;679.9;728.55;10.0;72.85;0.10000661857171234
+54;215/55R17;Goodyear EfficientGrip SUV 94V;2026-10-27 14:02;PneuStore;mesmo produto;sim;702.99;nao;;;;;;;
+55;215/55R18;Wrangler Territory VW 95V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;860.16;nao;;;;;;;
+56;215/60R17;EfficientGrip SUV 96H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;785.76;sim;;883.23;794.9;851.78;10.0;85.17;0.10000792545543069
+57;215/65R16;Wrangler Fortitude HT 102H XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;708.57;sim;;761.25;669.9;734.14;10.0;73.41;0.12
+58;225/55R18;EfficientGrip SUV 98V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;841.56;sim;;1005.98;824.9;970.16;10.0;97.01;0.18000357859997218
+59;225/55R18;Wrangler Fortitude HT 98V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;764.37;sim;;833.22;749.89;803.55;10.0;80.35;0.10000960130577763
+60;225/60R18;Wrangler Fortitude HT 104H XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;972.69;sim;;1121.83;919.9;1081.89;10.0;108.18;0.1800005348403947
+61;235/45R19;Wrangler Territory VW 95V SL;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;sim;;1363.53;1199.9;1314.98;10.0;131.49;0.12000469369944178
+62;235/55R18;EfficientGrip SUV 104V XL;2026-10-27 14:02;PneuStore;mesmo produto;sim;1311.21;sim;;1499.89;1349.9;1446.49;10.0;144.64;0.10000066671555918
+63;235/60R16;Edge SUV 2 100H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;678.81;sim;;811.65;689.9;782.75;10.0;78.27;0.15000308014538288
+64;235/60R16;Wrangler Fortitude HT 100H SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;771.81;sim;;938.91;769.9;905.48;10.0;90.54;0.18000660340181696
+65;235/60R18;Wrangler Fortitude HT 103V SL;2026-10-27 14:02;PneuStore;mesmo produto;sim;1053.6;sim;;1166.56;1049.9;1125.03;10.0;112.5;0.10000342888492653
+66;195/70R15C;Cargo Marathon 2 104/102R D;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
+67;205/70R15C;Cargo Marathon 2 106/104R D;2026-10-27 14:02;PneuStore;mesmo produto;sim;819.24;sim;;877.67;789.9;846.42;10.0;84.64;0.10000341814121483
+68;225/65R16C;G32 Cargo 112/110R D SL;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;sim;;1333.23;1199.9;1285.76;10.0;128.57;0.10000525040690644
+69;225/75R16C;Cargo Marathon 3 118R E CC72;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;nao;;;;;;;
+70;225/75R16C;Goodyear Cargo Marathon 2 118/116R;2026-10-27 14:02;PneuStore;mesmo produto;sim;1097.31;nao;;;;;;;
+71;235/65R16C;Cargo Marathon 2 121/119R E;2026-10-27 14:02;PneuStore;mesmo produto;fora_do_site;;sim;;1199.89;1079.9;1157.17;10.0;115.71;0.1000008334097292
